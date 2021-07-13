@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @nicolasWeickert
-- 👀 I’m interested in ethical, solidarity or innovative development
-- 🌱 I’m currently learning symfony
-- 💞️ I’m looking to collaborate on innovative project
+     Junior web developer, following a professional retraining, I want to continue to train myself and gain skills in different languages. I am currently working        mainly on symfony / php and will start working on React.
+     
+- 👀 I’m interested in ethical, solidarity or innovative development.
+
+- 🌱 I’m currently learning symfony.
+
+- 💞️ I’m looking to collaborate on innovative project.
+
 - 📫 How to reach me: n2weickert@gmail.com
 
 <!---
